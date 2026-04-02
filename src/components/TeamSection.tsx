@@ -2,22 +2,22 @@ const members = [
   {
     name: "Marcel Milo",
     role: "Head of TikTok ads digital strategy",
-    img: "/images/team-marcel.webp",
+    img: "/images/team-marcel.jpg",
   },
   {
     name: "Patrik Koleňák",
     role: "TikTok Ads technical support specialist",
-    img: "/images/team-patrik.webp",
+    img: "/images/team-patrik.jpg",
   },
   {
     name: "Daniela Štalmachová",
     role: "TikTok Ads specialist",
-    img: "/images/team-daniela.webp",
+    img: "/images/team-daniela.jpg",
   },
   {
     name: "Gabriela Brezániová",
     role: "TikTok Ads specialist",
-    img: "/images/team-gabriela.webp",
+    img: "/images/team-gabriela.jpg",
   },
 ];
 

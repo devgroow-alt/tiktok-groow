@@ -1,7 +1,17 @@
-const logos = Array.from({ length: 12 }, (_, i) => {
-  const num = String(i + 1).padStart(2, "0");
-  return `/images/logo-${num}.webp`;
-});
+const logos = [
+  "/images/logo-01.svg",
+  "/images/logo-02.svg",
+  "/images/logo-03.png",
+  "/images/logo-04.png",
+  "/images/logo-05.svg",
+  "/images/logo-06.svg",
+  "/images/logo-07.png",
+  "/images/logo-08.png",
+  "/images/logo-09.svg",
+  "/images/logo-10.png",
+  "/images/logo-11.png",
+  "/images/logo-12.svg",
+];
 
 export default function ClientLogos() {
   return (

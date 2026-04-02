@@ -1,15 +1,15 @@
 export default function WhyTikTok() {
   const stats = [
     {
-      image: "/images/stat-1.webp",
+      image: "/images/stat-1.png",
       text: "Mesačne aktívnych užívateľov na Slovensku",
     },
     {
-      image: "/images/stat-2.webp",
+      image: "/images/stat-2.png",
       text: "Počet užívateľov na Slovensku stále rastie",
     },
     {
-      image: "/images/stat-3.webp",
+      image: "/images/stat-3.png",
       text: "Polovica užívateľov má 25 a viac rokov",
     },
   ];

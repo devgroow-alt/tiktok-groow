@@ -1,18 +1,18 @@
 const articles = [
   {
-    img: "/images/article-1.webp",
+    img: "/images/article-1.png",
     link: "https://www.groow.sk/tiktok-ads-konecne-vstupuju-aj-na-slovensky-trh/",
   },
   {
-    img: "/images/article-2.webp",
+    img: "/images/article-2.png",
     link: "https://www.groow.sk/prvy-tyzden-tiktok-reklamy-na-slovensku/",
   },
   {
-    img: "/images/article-3.webp",
+    img: "/images/article-3.png",
     link: "https://www.groow.sk/prva-spustena-tiktok-reklama-u-nas/",
   },
   {
-    img: "/images/article-4.webp",
+    img: "/images/article-4.png",
     link: "https://www.groow.sk/tiktok-formaty/",
   },
 ];

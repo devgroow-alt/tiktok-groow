@@ -3,7 +3,7 @@ export default function AboutUs() {
     <section className="bg-[#3d0088] py-16">
       <div className="max-w-[1140px] mx-auto px-4 text-center">
         <img
-          src="/images/groow-icon.webp"
+          src="/images/groow-icon.png"
           alt="GROOW Digital"
           className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-6"
         />
