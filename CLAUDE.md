@@ -1,1 +1,1 @@
-@AGENTS.md
+Static Next.js clone of tiktok.groow.sk, replacing Leadpages landing page.
